@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceRoot": "src",
+        "sourceMap": true,
+        "outDir": "dist",
+        "lib": ["es2015"]
+    },
+    "exclude": ["node_modules"]
+}
